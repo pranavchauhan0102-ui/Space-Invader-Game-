@@ -29,7 +29,10 @@ A classic **Space Invader** arcade game built using **Python** and **Pygame**. T
 
 ## 📸 Screenshots
 
-(Add your screenshots here)
+![Gameplay](screenshots/GAMEPLAY.png)
+![Gameplay](screenshots/GAMEPLAY(2).png)
+
+![Game Over](screenshots/GAMEOVER.png)
 
 ---
 
