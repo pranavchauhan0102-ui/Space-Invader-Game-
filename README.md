@@ -55,4 +55,4 @@ A classic **Space Invader** arcade game built using **Python** and **Pygame**. T
 1. Clone the repository
 
 ```bash
-git clone https://github.com/pranavchauhan0102-ui/Space-Invader-Game.git
+git clone https://github.com/pranavchauhan0102-ui/space-invader-game.git
